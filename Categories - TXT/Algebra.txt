@@ -1,0 +1,151 @@
+Liczba \ |5 - 7| \ - \ |-3+4| \ jest \ r\oo wna # -3 # 3 # -5 # 1
+\\\\ \ Samoch \oo d \ kosztowa\ll \ 30000 z\ll. \ Jego \ cen \ee \\ \ obni \zzz ono \ o \ 10 \ \%, \ a \ nast \ee pnie \ cen \ee \ po \\ \ tej \ obni \zzz ce \ ponownie \ obni \zzz ono \ o \ 10 \ \%. \\\\ \ Po \ tych \ obni \zzz kach \ samoch \oo d \ kosztowa\ll # 24000 \ z\ll # 24700 \ z\ll # 24400 \ z\ll # 24300 \ z\ll
+Dana \  jest \ liczba \ x \ = \ 63^2 \cdot (\frac{1}{3})^4 # x = 3 \cdot 7 # x = 3^8 \cdot 7^2 # x = 7^{(-2)} # x = 7^2
+\\\\ \ Kwadrat \ liczby \ x \ = \ 5 + 2\sqrt{3} \ jest \\ \ r\oo wny # 37 # 147 # C4 # 37 + 20\sqrt{3}
+\\ Liczba  \ \log_5 5 - \log_5 125 \ jest \ r \oo wna # -1 # 4 # \frac{1}{25} # -2
+\\\\ \ Liczba \ 0,6 \ jest \ jednym \ z \ przybli\zzz e\nn \\ \ liczby \ \frac{5}{8} . \ B\ll \aa d \ wzgl\ee dny \ tego \ przybli\zzz enia, \\ \  wyra\zzz ony \ w \ procentach, \ jest \ r\oo wny # 0,025 \ \% # 2,5 \ \% # 0,04 \ \% # 4 \ \%
+\\\\\\ \ Rozwi\aa zaniami \ r\oo wnania \\ \ (x^3-8)(x-5)(2x+1) \ = \ 0 \ s\aa \ liczby # -8 \ ; \ -5 \ ; \ 1   # -1 \ ; \ 5 \ ; \ 8 # -\frac{1}{2} \ ; \ 5 \ ; \ 8 # -\frac{1}{2} \ ; \ 2 \ ; \ 5
+\\\\ \ Cena \ towaru \ zosta\ll a \ podwy\zzz szona \ o \\ \ 30 \ \%, \ a \ po \ pewnym \ czasie \ now\aa , \ wy\zzz sz\aa \\ \ cen\ee \ ponownie \ podwy\zzz szono, \ tym \ razem \\ \ o \ 10 \ \%. \ W \ rezultacie \ obu \ podwy\zzz ek \\ \ wyj\ss ciowa \ cena \ towaru \ zwi\ee kszy\ll a \ si\ee \ o  # 15 \ \%  # 20 \ \%  # 40 \ \%  # 43 \ \%
+\\\\ \ Wyra\zzz enie \ (3x+1+y)^2 \ jest \ r\oo wne # 3x^2+y^2+1 # 9x^2+6x+y^2+1 # 3x^2+y^2+6xy+6x+1 # 9x^2+y^2+6xy+6x+2y+1
+\\\\ \ Po\ll owa \ sumy \ 4^{28} + 4^{28} + 4^{28} + 4^{28} \ jest \\ \ r\oo wna # 2^{30} # 2^{112} # 2^{63} # 2^{57}
+\\\\ \ Na \ \ss cianie \ kamienicy \ zaprojektowano \\ \ mural \ utworzony \ z \ szeregu \ tr\oo jk\aa t\oo w \\ \ r\oo wnobocznych \ r\oo \zzz nej \ wielko\ss ci. \ Naj- \\ \ mniejszy \ tr\oo jk\aa t \ ma \ bok \ d\ll ugo\ss ci \ 1 m, \ a \\ \ bok \ ka\zzz dego \ z \ nast\ee pnych \ tr\oo jk\aa t\oo w \ jest \\ \ o \ 10 cm \ d\ll u\zzz szy \ ni\zzz \ bok \ poprzedzaj\aa cego \\ \ go \ tr\oo jk\aa ta. \ Ostatni \ tr\oo jk\aa t \ ma \ bok \\ \ 5,9 m. \ Ile \ tr\oo jk\aa t\oo w \ przedstawia \ mural? # 60 # 59 # 49 # 50
+\\\\ \ Dany \ jest \ ci\aa g \ geometryczny \ (a_n), \ w \\ \ kt\oo ym \ a_1= \sqrt{2}, \ a_2=2, \ a_3 =-2 \sqrt{2}. \\ \ Dziesi\aa ty \ wyraz\ tego\ ci\aa gu, \ czyli\ a_{10} ,\\ \ jest\ r\oo wny # -16\sqrt{2} # 16\sqrt{2} # -32 # 32
+\\\\ \ Ci\aa g \ (a_n) \ jest \ okre\ss lony \ wzorem \\ \ a_n = \frac{24-4n}{n} \ dla \ n \geq 1.\ Liczba \ wszyst- \\ \ kich \ ca\ll owitych \ nieujemnych \ wyraz\oo w \\ \ tego \ ci\aa gu \ jest \ r\oo wna # 7 # 6 # 4 # 5
+\\\\ \ Wska\zzz \ liczb\ee , \ kt\oo ra \ spe\ll nia \ r\oo wnanie \\ \ 4^x = 9. # \log9-\log4  # \frac{\log2}{\log3} # 2\log_92 # 2log_43
+\\\\ \ Na \ seans \ filmowy \ sprzedano \ 280 \ bilet\oo w, \\ \ w \ tym \ 126 \ ulgowych. \ Jaki \ procent\\ \ sprzedanych \ bilet'oo w \ stanowi\ll y \ bilety \\ \ ulgowe? # 22 \ \% # 33\ \% # 63\ \% # 45\ \%
+\\\\\\ \ 6\% \ liczby \ x \ jest \ r\oo wne \ 9. \ Wtedy # x=240 # x=24 # x=15 # x=150
+\\\\ \ \ Iloraz \ 32^{-3} \ : \ \left(\frac{1}{8}\right) ^4\ \ jest \ r\oo wny # 2^{-27} # 2^3 # 2^{27} # 2^{-3}
+\\\\ \ O \ liczbie \ x \ wiadomo, \ \zzz e \ \log_3x=9. \\ \ Zatem # x=2 # x=\frac{1}{2} # x=9^3 # x=3^9
+\\\\ \ Wyra\zzz enie \ 27x^3+y^3 \ jest \ r\oo wne \\ \ iloczynowi # (3x+y)(9x^2+3xy+y^2) # (3x-y)(9x^2+3xy+y^2) # (3x-y)(9x^2-3xy+y^2) # (3x+y)(9x^2-3xy+y^2)
+\\\\ \ Dla \ n=1,2,3,... \ ciąg(a_n) \ jest \ okre\ss lony\\ \ wzorem: \ a_n  =(-1)^n \cdot (3−n). \ Wtedy # a_3 < 0 # a_3 = 1 # a_3 > 1 # a_3 = 0
+\\\\ \ W \ ci\aa gu \ arytmetycznym \ trzeci \ wyraz \\ \ jest \ r\oo wny \ 14, \ a \ jedenasty \ jest \ r\oo wny \\ \ 34. \ R\oo \zzz nica \ tego \ ci\aa gu \ jest \ r\oo wna # \ \ 9 # \ \ 2 # \ \ \frac{2}{5} # \ \ \frac{5}{2}
+\\\\ \ W \ ci\aa gu \ geometrycznym (a_n) \ dane \ s\aa : \\ \ a_1 = 32 \ i \  a_4 = −4 . \ Iloraz \ tego \ ci\aa gu \ jest \\ \ r\oo wny # 12 # \frac{1}{2} # -12 # -\frac{1}{2}
+\\\\ \ Wybieramy \ liczb\ee \ a \ ze\ zbioru\\ \ A=\left{ 2,3,4,5\right} \ oraz \ liczb\ee \ b\ ze\ zbioru\\ \ B=\left{ 1,4\right}. \ Ile\ jest \ takich\ par \ (a,b), \ \zzz e \\ \ iloczyn \ a \cdot b \ jest \ liczb\aa \ nieparzyst\aa \ ? # 3 # 5 # 20 # 2
+\\\\ \  Liczby \ a \ i \ b \ s\aa \ dodatnie \ oraz \ 12 \ \% \ liczby \\ \ a \ jest \ r\oo wne \ 15 \ \% \ liczby \ b.\ St\aa d \ wynika, \\ \ \zzz e\ a\ jest\ r\oo wne # 103 \ \% \ liczby \ b # 150 \ \% \ liczby \ b # 153 \ \% \ liczby \ b # 125 \ \% \ liczby \ b
+\\\\ \ Liczba \ \log100 - \log_2 8 \ jest \ r\oo wna # 1 # 0 # -2 # -1
+\\\\ \ Rozwi\aa zaniem \ uk\ll adu \ r\oo wna\nn \\ \ \begin{cases} 5x+3y=3 \\ 8x-6y=48 \end{cases}  \ jest \ para \ liczb # x=-3 \ i \ y=4 # x=-3 \ i \ y=6 # x=9 \ i \ y=4 # x=3 \ i \ y=-4
+\\\\ \ Dla \ ka\zzz dej \ liczby\ rzeczywistej\ x,\\ \ wyra\zzz enie\ 4x^2-12x+9\ jest\ r\oo wne # (4x+3)(x+3) # (2x-3)(2x+3) # (x-3)(4x-3) # (2x-3)(4x-3)
+\\\\ \ Najmniejsz\aa \ liczb\aa \ ca\ll kowit\aa \\ \ spe\ll niaj\aa c\aa \ nier\oo wno\ss \cc \ \frac{x}{2} \le \frac{2x}{3}+ \frac{1}{4} \ jest # -2 # 0 # 1 # -1
+\\\\ \ Ci\aa g\ (27, 18, x + 5) \ jest \ geometryczny.\\ \ Wtedy # x=4 # x=5 # x=9 # x=7
+\\\\ \ Ci\aa g\ (a_n) \ okre\ss lony\ dla\ n \geq 1\ jest\\ \ arytmetyczny\ oraz\ a_3 = 10 \ i \ a_4 = 14.\\ \ Pierwszy \ wyraz \ tego \ ci\aa gu \ jest \ r\oo wny # a_1=-2 # a_1=6 # a_1=12 # a_1=2
+\\\\ \ Liczba\ rzeczywistych\ rozwi\aa za\nn \ r\oo wna- \\ \ nia \ (x+1)(x+2)(x^2+3)=0\ jest\ r\oo wna # 0 # 1 # 4 # 2
+\\\\ \ Liczba\ \frac{\sqrt{50}-\sqrt{18}}{\sqrt{2}}\ jest\ r\oo wna  # 2\sqrt{2} # \sqrt{10}-\sqrt{6} # 4 # 2
+\\\\ \ Liczby \ x_1 \ i \ x_2 \ s\aa \ pierwiastkami\\ \ r\oo wnania \ x^2 +10x-24=0 \ i \ x_1 <x_2.\\ \ Oblicz\ 2x_1 +x_2. # 13 # -17 # 8 # -22
+\\\\ \ Zbiorem\ rozwi\aa za\nn \ nier\oo wno\ss ci\\ \ (x-2)(x+3)\geq 0\ jest # \left< -2,3 \right> # \left< -3,2 \right> # \left( -\infty, -2 \right> \cup \left< 3,+\infty \right) # \left( -\infty, -3 \right> \cup \left< 2,+\infty \right)
+\\\\ \ W\ ci\aa gu\ geometrycznym\ (a_n)\ dane\ s\aa  :\\ \ a_1 = 2 \ i\ a_2 = 12 .\ Wtedy # a_4=26 # a_4=32 # a_4=2592 # a_4=432
+\\\\ \ W\ ci\aa gu\ arytmetycznym\ a_1 = 3\ oraz\\ \ a_{20} = 7 .\ Wtedy\ suma\\ \ S_{20} = a_1 +a_2 +... +a_{19} +a_{20}\ jest\ r\oo wna # 95 # 200 # 230 # 100
+\\\\ \ Liczba\ 15\ jest\ przybli\zzz eniem\ z\\ \ niedomiarem \ liczby\ x.\ B\ll \aa d\ bezwzgl\ee dny\\ \ tego\ przybli\zzz enia \ jest\ r\oo wny\ 0,24.\\ \ Liczba\ x\ to\ # 14,76 # 14,8 # 15,2 # 15,24
+\\\\ \ Liczba\ \left( \frac{3+\sqrt{3}}{\sqrt{3}} \right)^2\ jest\ r\oo wna # 4 # 9 # \frac{3+\sqrt{3}}{3} # 4+2\sqrt{3}
+\\\\ \ Liczba\ 3^{\frac{9}{4}}\ jest \ r\oo wna # 3\sqrt[4]{3} # 27\sqrt[4]{3} # 3^9\cdot 3^{\frac{1}{4}} # 9\sqrt[4]{3}
+\\\\ \ Funkcja\ wyk\ll adnicza\ okre\ss lona\ wzorem\\ \ f (x) = 3x\ przyjmuje\ warto\ss \cc \ 6\ dla\\ \ argumentu # x=2 # x= \log_32 # x=\log_63 # x=\log_36
+\\\\ \ Wyra\zzz enie\ 16-(3x-1)^2 \ jest\ r\oo wne # (15-3x)^2 # (5-3x)\cdot (5+3x) # 15-9x^2 # (3-3x)\cdot (5+3x)
+\\\\ \ Wska\zzz \ r\oo wno\ss \cc \ prawdziw\aa .# -256^2=(-256)^2 # 256^3=(-256)^3 # \sqrt{(-256)^2} = -256 # \sqrt[3]{-256}=-\sqrt[3]{256}
+\\\\ \ Zbiorem\ rozwi\aa za\nn \ nier\oo wno\ss ci\\ \ \frac{2-x}{3}-\frac{2x-1}{2}<x \ jest\ przedzia\ll # \left( -\infty ,\frac{1}{2} \right) # \left( -\infty ,\frac{1}{14} \right) # \left( \frac{1}{14},+\infty  \right) # \left( \frac{1}{2},+\infty  \right)
+\\\\ \ W\ klasie\ jest\ cztery\ razy\ wi\ee cej\\ \ ch\ll opc\oo w \ ni\zzz \ dziewcz\aa t.\ Ile\ procent\\ \ wszystkich\ uczni\oo w \ tej\ klasy\ stanowi\aa \\ \ dziewcz\ee ta\ ? # 4\ \% # 5\ \% # 25\ \% # 20\ \%
+\\\\ \ Reszta\ z\ dzielenia\ liczby\ 55\ przez\ 8\ jest\\ \ r\oo wna # 4 # 5 # 6 # 7
+\\\\ \ R\oo wnanie\\  (2x-1)\cdot (x-2)=(1-2x)\cdot (x-2)\\ \ ma\ dwa\ rozwi\aa zania.\ S\aa \ to\ liczby # =2\ oraz\ \frac{1}{2} # \frac{1}{2} \ oraz\ 2 # -2\ oraz\ 2 # 0\ oraz\ \frac{1}{2}
+\\\\ \ Dane\ jest\ r\oo wnanie\ 3x+4y-5=0.\\ \ Z\ kt\oo rym\ z\ poni\zzz szych\ r\oo wna\nn \ tworzy\\ \ ono\ uk\ll ad\ sprzeczny\ ? # 6x+8y-10=0 # 4x-3y+5=0 # 5x+4y-3=0 # 9x+12y-10=0
+\\\\ \ W\ dziewi\ee ciowyrazowym\ ci\aa gu\\ \ geometrycznym\ o\ wyrazach\ dodatnich\\ \ pierwszy\ wyraz\ jest\ r\oo wny\ 3, \ a\ ostatni\\ \ wyraz\ jest\ r\oo wny\ 12.\ Pi\aa ty\ wyraz\ tego\\ \ ci\aa gu\ jest\ r\oo wny # 3\sqrt[4]{2} # 7\frac{1}{2} # 8\frac{1}{7} # 6
+\\\\ \ Ci\aa g\ (a_n)\ jest\ okre\ss lony\ wzorem\\ \ a_n =(n-3)(n-5)\ dla\ n\geq 1.\ Liczba\\ \ ujemnych\ wyraz\oo w\ tego\ ci\aa gu\ jest\\ \ r\oo wna # 3 # 7 # 9 # 4
+\\\\ \ Je\zzz eli\ liczba\ 78\ jest\ o\ 50 \% \ wi\ee ksza\ od\\ \ liczby\  c,\ to # c=60 # c=48 # c=39 # c=52
+\\\\ \ Warto\ss \cc \ wyra\zzz enia\ \frac{2}{\sqrt{3}-1}-\frac{2}{\sqrt{3}+1}\\ \ jest\ r\oo wna # -2 # -2\sqrt{3} # 2\sqrt{3} # 2
+\\\\ \ Suma\ log_816 +1\ jest\ r\oo wna # 3 # \frac{3}{2} # log_817 # \frac{7}{3}
+\\\\ \ Wsp\oo lnym\ pierwiastkiem\ r\oo wna\nn \\ \ (x^2-1)(x-10)(x-5)=0 \ oraz\\ \ \frac{2x-10}{x-1}=0\  jest\ liczba # 1 # -1 # 10 # 5
+\\\\ \ Dla\ ka\zzz dej\ liczby\ x,\ spe\ll niaj\aa cej\\ \ warunek\ -3<x<0,\ wyra\zzz enie\\ \ \frac{\left| x+3\right| -x+3}{x}\  jest\ r\oo wne # 2 # 3 # -\frac{6}{x} # \frac{6}{x}
+\\\\ \ Pierwiastki\ x_1 ,\ x_2\ r\oo wnania\\ \ 2(x + 2)(x - 2) = 0 \ spe\ll niaj\aa \ warunek # \frac{1}{x_1}+\frac{1}{x_2}=-1 # \frac{1}{x_1}+\frac{1}{x_2}=\frac{1}{4} # \frac{1}{x_1}+\frac{1}{x_2}=\frac{1}{2} # \frac{1}{x_1}+\frac{1}{x_2}=0
+\\\\ \ Liczby\ 2,\ -1,\ - 4\ s\aa \ trzema\\ \ pocz\aa tkowymi\ wyrazami\ ci\aa gu\\ \ arytmetycznego\ (a_n) ,\ okre\ss lonego\ dla\\ \ liczb\ naturalnych\ n \geq 1 .\ Wz\oo r\ og\oo lny\\ \ tego\ ci\aa gu\ ma\ posta\cc # a_n=n-3 # a_n=-n+3 # a_n=3n-5 # a_n=-3n+5
+\\\\ \ Liczby:\ x-2,\ 6,\ 12,\ w\ podanej\\ \ kolejno\ss ci,\ s\aa \ trzema\ kolejnymi\\ \ wyrazami\ ci\aa gu\ geometrycznego.\ Liczba\\ \ x\ jest\ r\oo wna # 0 # 2 # 3 # 5
+\\\\ \ Liczba\ \left( \frac{1}{\left( \sqrt[3]{729} + \sqrt[4]{256} + 2 \right)^0} \right)^{-2}\\ \ jest\ r\oo wne # \frac{1}{225} # \frac{1}{15} # 15 # 1
+\\\\ \ Wska\zzz \ nier\oo wno\ss \cc ,\ kt\oo r\aa \ spe\ll nia\ liczba\\ \ π . # \left| x+1 \right| > 5 # \left| x-1 \right| <2 # \left| x-\frac{1}{3} \right| \geq 3 # \left| x+\frac{2}{3} \right| \le 4
+\\\\ \ Pierwsza\ rata,\ kt\oo ra\ stanowi\ 9 \% \ ceny\\ \ roweru,\ jest\ r\oo wna\ 189\ z\ll .\ Rower\\ \ kosztuje # 2091\ z\ll # 1701\ z\ll # 1890\ z\ll # 2100\ z\ll
+\\\\ \ Wyra\zzz enie\ 5a^2(1-10b+3)+15a\\ \ jest\ r\oo wne\ iloczynowi # 5(a-2b+3) # 5a(a-10b+15) # 5a^2(1-10b+3) # 5a(a-2b+3)
+\\\\ \ Uk\ll ad\ r\oo wna\nn \ ma\ niesko\nn czenie\ wiele\ rozwi\aa za\nn ,\ je\ss li # a=0 # a=-1 # a=2 # a=3
+\\\\ \ Rozwi\aa zanie\ r\oo wnania\\ \ x(x + 3)- 49 = x(x -4)\ nale\zz y\ do\\ \ przedzia\ll u # \left( -\infty , 3 \right) # \left( 10 , +\infty \right) # \left( -5 , -1 \right) # \left( 2 , +\infty \right)
+\\\\ \ Najmniejsz\aa \ liczb\aa \ ca\ll kowit\aa \ nale\zzz \aa c\aa \\ \ do\ zbioru\ rozwi\aa za\nn \ nier\oo wno\ss ci\\ \ 3 + x < 5x\ jest # 1 # -2 #  -1# 2
+\\\\ \ Wyra\zzz enie\ \log_4(2x-1)\ jest\ okre\ss lone\\ \ dla\ wszystkich\ liczb\ x\ spe\ll niaj\aa cych\\ \ warunek # x>0 # x \le 0 # x\le \frac{1}{2} # x>\frac{1}{2}
+\\\\ \ Dany\ jest\ niesko\nn czony\ ci\aa g\\ \ geometryczny\ (a_n ),\ w\ kt\oo rym\ a_3 = 1\\ \ i\ a_4 = \frac{2}{3} .\ Wtedy # a_1=\frac{2}{3} # a_1=\frac{4}{9} # a_1=\frac{3}{2} # a_1=\frac{9}{4}
+\\\\ \ Dany\ jest\ niesko\nn czony\ rosn\aa cy\ ci\aa g\\ \ arytmetyczny\ (a_n )\ o\ wyrazach\\ \ dodatnich.\ Wtedy # a_4+a_7=a_{10} # a_4+a_6=a_3+a_8 # a_5+a_7=2a_8 # a_2+a_9=a_3+a_8
+\\\\ \ Iloczyn\ 9^{-5}\cdot 3^8\ jest\ r\oo wny # 3^{-4} # 3^{-9} # 9^{-9} # 9^{-1}
+\\\\ \ Liczba\ \log_327- \log_31\ jest\ r\oo wna # 0 # 1 # 2 # 3
+\\\\ \ Liczba\ (2-3\sqrt{2})^2\ jest\ r\oo wna # -14 # 22 # -14-12\sqrt{2} # 22-12\sqrt{2}
+\\\\ \ Zbiorem\ rozwi\aa za\nn \ nier\oo wno\ss ci\\ \ x(x+6)<0 \ jest # (0,6) # (-\infty,-6)\cup (0,\infty ) # (-\infty ,0)\cup (6,\infty ) # (-6,0)
+\\\\ \ R\oo wnanie\ \frac{(x+3)(x-2)}{(x-3)(x+2)}=0\ ma # dok\ll adnie\ jedno\ rozwi\aa zania # dok\ll adnie\ trzy\ rozwi\aa zania # dok\ll adnie\ cztery\ rozwi\aa zania # dok\ll adnie\ dwa\ rozwi\aa zania
+\\\\ \ Dany\ jest\ ci\aa g\ (a_n)\ okre\ss lony\ wzorem\\ \ a_n=\frac{n}{(-2)^n}\ dla\ n \geq 1.\ W\oo wczas # a_3=\frac{1}{2} # a_3=-\frac{1}{2} # a_3=\frac{3}{8} # a_3=-\frac{3}{8}
+\\\\ \ W\ ci\aa gu\ geometrycznym\ (a_n)\ dane\ s\aa :\\ \ a_1 = 36 ,\ a_2 = 18 .\ Wtedy # a_4=-18 # a_4=0 # a_4=133 # a_4=4,5
+\\\\ \ Spodnie\ po\ obni\zzz ce\ ceny\ o\ 30 \% \ kosztuj\aa \\ \ 126z\ll .\ Ile\ kosztowa\ll y\ spodnie\ przed\\ \ obni\zzz k\aa ? # 163,80\ z\ll # 294\ z\ll # 420\ z\ll # 180\ z\ll
+\\\\ \ Liczba\ \left( \frac{2^{-2}\cdot 3^{-1}}{2^{-1}\cdot 3^{-2}} \right)^0\ jest\ r\oo wna # 9 # 36 # 4 # 1
+\\\\ \ Liczba\ \log_48+\log_4 2\  jest\ r\oo wna # log_410 # \log_46 # 1 # 2
+\\\\ \ Rozwi\aa zaniem\ r\oo wnania\ \frac{3x-1}{7x+1}=\frac{2}{5}\ jest # 1 # \frac{7}{3} # \frac{4}{7} # 7
+\\\\ \ Do\ zbioru\ rozwi\aa za\nn \ nier\oo wno\ss ci\\ \ (x - 2)(x + 3) < 0\  nale\zzz y\ liczba # 9 # 7 # 4 # 1
+\\\\ \ W\ ci\aa gu\ geometrycznym\ (a_n)\ dane\ s\aa :\\ \ a_1=3\ i\ a_4=24.\ Iloraz\ tego\ ci\aa gu\ jest\\ \ r\oo wny # 8 # \frac{1}{8} # -\frac{1}{2} # 2
+\\\\ \ W\ ci\aa gu\ geometrycznym\ (a_n)\ dane\ s\aa :\\ \ a_3=13\ i\ a_5=39.\ Wtedy\ wyraz\ a_1\ jest\\ \ r\oo wny # 13 # 0 # -26 # -13
+\\\\ \ Cen\ee \ nart\ obni\zzz ono\ o\ 20 \% ,\ a\ po\\ \ miesi\aa cu\ now\aa \ cen\ee \ obni\zz ono\ o\ dalsze\\ \ 30 \%.\ W\ wyniku\ obu\ obni\zzz ek\ cena\ nart\\ \ zmniejszy\ll a\ si\ee \ o # 50\ \% # 56\ \% # 60\ \% # 44\ \%
+\\\\ \ Liczba\ \sqrt[3]{(-8)^{-1}}\cdot 16^{\frac{3}{4}}\ jest\ r\oo wna # -8 # 2 # 4 # -4
+\\\\ \ Liczba\ (3-\sqrt{2})^2 +4(2-\sqrt{2})\ jest\ r\oo wna # 19+6\sqrt{2} # 15+14\sqrt{2} # 17-4\sqrt{2} # 19-10\sqrt{2}
+\\\\ \ Iloczyn\ 2\cdot \log_{\frac{1}{3}} 9\ jest\ r\oo wny # 1 # -1 # -6 # -4
+\\\\ \ Wska\zzz \ liczb\ee ,\ kt\oo ra\ spe\ll nia\ r\oo wnanie\\ \ \left| 3x+1 \right| =4x. # x=-1 # x=2 # x=-2 # x=1
+\\\\ \ Liczby\ x_1 ,\ x_2 \ s\aa \ r\oo \zzz nymi\ rozwi\aa zaniami\\ \ r\oo wnania\ 2x^2 + 3x - 7 = 0 .\ Suma\\ \ x_1 + x_2 \ jest\ r\oo wna # -\frac{7}{2} # -\frac{7}{4} # -\frac{3}{4} # -\frac{3}{2}
+\\\\ \ Dany\ jest\ ci\aa g (a_n)\ okre\ss lony\ wzorem\\ \ a_n=(-1)^n\cdot \frac{2-n}{n^2}\ dla\ n\geq 1.\ W\oo wczas\\ \ wyraz\ a_5\ tego\ ci\aa gu\ jest\ r\oo wny # -\frac{3}{25} # -\frac{7}{25} # \frac{7}{25} # \frac{3}{25}
+\\\\ \ Wska\zzz \ r\oo wnanie\ prostej\ r\oo wnoleg\ll ej\\ \ do\ prostej\ o\ r\oo wnaniu\ 3x - 6 y + 7 = 0 . # y=-2x # y=2x # y=-\frac{1}{2}x # y=\frac{1}{2}x
+\\\\ \ Warto\ss \cc \ wyra\zzz enia\ \frac{\sqrt[3]{4}\cdot \sqrt[3]{-16}}{-8}\ jest\\ \ r\oo wna # 2^{\frac{1}{3}} # 2^{\frac{1}{2}} # 2^{-2} # 2^{-1}
+\\\\ \ Odwrotno\ss ci\aa \ liczby\ 2\sqrt{2}\left( \frac{1}{8} \right)^{-\frac{4}{3}}\ jest\\ \ r\oo wna # -2^{\frac{11}{2}} # -2^{-\frac{11}{2}} # 2^{\frac{11}{2}} # 2^{-\frac{11}{2}}
+\\\\ \ Liczba\ \sqrt[3]{4^{-1}}\cdot 2^{\frac{1}{4}}\cdot 16^{\frac{1}{3}}\ jest\ r\oo wna # 2^{\frac{1}{6}} # 2^{\frac{1}{4}} # 2^{\frac{1}{3}} # 2^{\frac{11}{12}}
+\\\\ \ Liczba\ o\ 2\ wi\ee ksza\ od\ liczby\ log_5 4\ jest\\ \ r\oo wna # log_56 # log_58 # log_529 # log_5100
+\\\\ \ Na\ lokacie\ z\ll o\zzz ono\ 1000 z\ll \ przy\ rocznej\\ \ stopie\ procentowej\ p \% \ (procent\\ \ sk\ll adany).\ Odsetki\ naliczane\ s\aa \ co\\ \ kwarta\ll .\ Po\ up\ll ywie\ roku\ wielko\ss \cc \\ \ kapita\ll u\ na\ lokacie\ b\ee dzie\ r\oo wna # 1000\left( 1+\frac{4p}{100} \right) # 1000\left( 1+\frac{p}{100} \right)^4 # 1000\left( 1+\frac{p}{400} \right) # 1000\left( 1+\frac{p}{400} \right)^4
+\\\\ \ Dany\ jest\ tr\oo jk\aa t\ o\ bokach\ d\ll ugo\ss ci\ a,\\ \ b,\ c.\ Stosunek\ a:b:c\ jest\ r\oo wny\\ \ 3:5:7.\ Kt\oo re\ zdanie\ jest\ fa\ll szywe? # Liczba\ c\ jest\ o\ 12,5\% \ mniejsza\\ od\ liczby\ a+b. # Liczba\ a\ stanowi\ 20\% \ liczby\\ a+b+c. # Liczba\ a\ stanowi\ 25\% \ liczby\ b+c. # Liczba\ b\ to\ 60\% \ liczby\ c.
+\\\\ \ W\ss r\oo d\ podanych\ poni\zzz ej\ nier\oo wno\ss ci\\ \ wska\zzz \ t\ee ,\ kt\oo rej\ zbiorem\ rozwi\aa za\nn \ jest\\ \ przedzia\ll \ (-3,1). # x(x+4)<1 # x(x+3)<1 # x(x+1)<3 #  x(x+2)<3
+\\\\ \ R\oo wnanie\ \frac{3(2-x)}{4x-3}=\frac{3}{2}\ \bf{nie}\ \bf{ma}\ takiego\\ \ samego\ rozwi\aa zania,\ jak\ r\oo wnanie # 6(2-x)=3(4x-3) # \frac{2}{3} (6-3x)=4x-3 # 3(2-x)=\frac{3}{2} (4x-3) # 9(2-x)=2(4x-3)
+\\\\ \ Na\ tablicy\ zapisano\ nast\ee puj\aa ce\ pot\ee gi:\\ \ (2^2)^{(2^2)},\ (2)^{\left( 2^{2^2} \right)},\ \left( 2^{2^2}\right) ^2,\ (2)^{(2^2)^2}.\ Ile\\ \ r\oo \zzz nych\ liczb\ reprezentuj\aa \ te\ zapisy? # 1 # 4 # 3 # 2
+\\\\ \ Tr\oo jwyrazowy\ ci\aa g\ (x+1,\ x-1,\ 2x)\\ \ jest\ arytmetyczny\ dla # x=-1 # x=0 # x=2 # x=-3
+\\\\ \ W\ ci\aa gu\ arytmetycznym\ (a_n)\ dla\ n\geq 1,\\ \ a_1 =8\ oraz\ a_1 +a_2 +a_3 =33.\ Wtedy\\ \ suma\ a_4 + a_5 + a_6\ jest\ r\oo wna # 93 # 69 # 44 # 60
+\\\\ \ W\ ci\aa gu\ geometrycznym\ rosn\aa cym\\ \ pierwszy\ wyraz\ jest\ r\oo wny\ (-16),\\ \ a\ si\oo dmy\ wyraz\ jest\ r\oo wny\ \left( -\frac{1}{4} \right) .\\ \ Kwadrat\ czwartego\ wyrazu\ jest\ r\oo wny # \left(\frac{65}{8} \right)^2 # \left(\frac{61}{8} \right)^2 # -2 # 4
+\\\\ \ Dane\ s\aa \ liczby\ a = -\frac{ 1}{27} ,\ b = log_{\frac{1}{4}} 64 ,\\ \ c = log_{\frac{1}{3}} 27 .\ Iloczyn\ abc\ jest\ r\oo wny # -9 # 3 # \frac{1}{3} # -\frac{1}{3}
+\\\\ \ Kwot\ee \ 1000 z\ll \ ulokowano\ w\ banku\ na\\ \ roczn\aa \ lokat\ee \ oprocentowan\aa \ w\\ \ wysoko\ss ci\ 4 \% \ w\ stosunku\ rocznym.\ Po\\ \ zako\nn czeniu\ lokaty\ od\ naliczonych\\ \ odsetek\ odprowadzany\ jest\ podatek\ w\\ \ wysoko\ss ci\ 19 \% .\ Maksymalna\ kwota,\\ \ jak\aa \ po\ up\ll ywie\ roku\ b\ee dzie\ mo\zzz na\\ \ wyp\ll aci\cc \ z\ banku,\ jest\ r\oo wna # 1000\cdot \left( 1- \frac{81}{100}\cdot \frac{4}{100} \right) # 1000\cdot \left( 1+ \frac{19}{100}\cdot \frac{4}{100} \right) # 1000\cdot \left( 1- \frac{19}{100}\cdot \frac{4}{100} \right) # 1000\cdot \left( 1+ \frac{81}{100}\cdot \frac{4}{100} \right)
+\\\\ \ R\oo wno\ss \cc \ \frac{m}{5-\sqrt{5}} = \frac{5 +\sqrt{5}}{5}\ zahodzi\ dla # m=-5 # m=1 # m=5 # m=4
+\\\\\\\\\ \ Układ równań  x − y = 3 opisuje w układzie współrzędnych na płaszczyźnie
+\\\\ \ Suma\ wszystkich\ pierwiastk\oo w\\ \ r\oo wnania\ (x + 3)(x + 7)(x -11) = 0\\ \ jest\ r\oo wna # -1 # 21 # -21 # 1
+\\\\ \ R\oo wnanie\ \frac{x-1}{x+1}=x-1 # ma\ dok\ll adnie\ jedno\ rozwi\aa zanie:\\ x=1 # ma\ dok\ll adnie\ jedno\ rozwi\aa zanie:\\ x=0 # ma\ dok\ll adnie\ jedno\ rozwi\aa zanie:\\ x=-1 # ma\ dok\ll adnie\ dwa\ rozwi\aa zania:\\ x=0,\ x=1
+\\\\ \ Ile\ liczb\ ca\ll kowitych\ x\ spe\ll nia\\ \ nier\oo wno\ss \cc \ \frac{2}{7} < \frac{x}{14} < \frac{4}{3}\ ? # 15 # 16 # 17 # 14
+\\\\ \ W\ rosn\aa cym\ ci\aa gu\ geometrycznym\ (a_n ),\\ \ okre\ss lonym\ dla\ n \geq 1,\ spe\ll niony\ jest\\ \ warunek\ a_4 = 3a_1 .\ Iloraz\ q\ tego\ ci\aa gu\\ \ jest\ r\oo wny # q=\frac{1}{\sqrt[3]{3}} # q=\frac{1}{3} # q=3 # q=\sqrt[3]{3}
+\\\\ \ Cena\ pewnego\ towaru\ wraz\ z\ 7-\\ \ procentowym\ podatkiem\ VAT\ jest\ r\oo wna\\ \ 34\ 347\ z\ll .\ Cena\ tego\ samego\ towaru\\ \ wraz\ z\ 23-procentowym\ podatkiem\\ \ VAT\ b\ee dzie\ r\oo wna # 42\ 246,81\ z\ll # 37\ 236\ z\ll # 39\ 842,52\ z\ll # 39\ 483\ z\ll
+\\\\ \ Najmniejsz\aa \ liczb\aa \ ca\ll kowit\aa \ dodatni\aa \\ \ spe\ll niaj\aa c\aa \ nier\oo wno\ss \cc \ \left| x + 4, 5\right| \geq 6\\ \ jest # x=6 # x=3 # x=1 # x=2
+\\\\ \ Liczba\ 2^{\frac{4}{3}}\cdot \sqrt[3]{2^5}\ jest\ r\oo wna # 2^{\frac{20}{3}} # 2 # 2^{frac{4}{5}} # 2^3
+\\\\ \ Liczba\ 2 \log_5 10 - \log_5 4\ jest\ r\oo wna # log_596 # 2 \log_56 # 5 # 2
+\\\\ \ Zbi\oo r\ wszystkich\ liczb\ rzeczywistych\\ \ spe\ll niaj\aa cych\ nier\oo wno\ss \cc \ \frac{3}{5} - \frac{2x}{3} \geq \frac{x}{6}\\ \ jest\ przedzia\ll em # \left< \frac{9}{15},+\infty \right) # \left< \frac{1}{30},+\infty \right) # \left( -\infty,\frac{9}{5} \right> # \left( -\infty,\frac{18}{25} \right>
+\\\\ \ Rozwi\aa zaniem\ r\oo wnania\ \frac{2x -4}{3-x} = \frac{4}{3}\  jest\\ \ liczba # x=2 # x=0 # x=\frac{25}{11} # x=\frac{12}{5}
+\\\\ \ W\ ci\aa gu\ arytmetycznym\ (a_n)\\ \ okre\ss lonym\ dla\ n\geq 1\ dane\ s\aa \\ \ a_1=-4\ i\ r=2.\ Kt\oo rym\ wyrazem\ tego\\ \ ci\aa gu\ jest\ liczba\ 156? # 77 # 76 # 80 # 81
+\\\\ \ W\ rosn\aa cym\ ci\aa gu\ geometrycznym\  (a_n ),\\ \ okre\ss lonym\ dla\ n \geq 1,\ spe\ll niony\ jest\\ \ warunek\ a_4 =3a_1.\ Iloraz\ q\ tego\ ci\aa gu\\ \ jest\ r\oo wny # q=\frac{1}{\sqrt[3]{3}} # q=\frac{1}{3} # q=3 # q=\sqrt[3]{3}
+\\\\ \ Dla\ ka\zzz dej\ dodatniej\ liczby\ a\ iloraz\\ \ \frac{a^{-2,6}}{a^{1,3}}\ jest\ r\oo wny # a^{1,3} # a^{-1,3} # a^{-2} # a^{-3,9}
+\\\\ \ Liczba\ \log_{\sqrt{2}}\left( 2\sqrt{2}\right)\ jest\ r\oo wna # \frac{3}{2} # 2 # \frac{5}{2} # 3
+\\\\ \ Liczby\ a\ i\ c\ s\aa \ dodatnie.\ Liczba\ b\\ \ stanowi\ 48 \% \ liczby\ a\ oraz\ 32 \% \ liczby\ c.\\ \ Wynika\ st\aa d,\ \zzz e # c=1,6a # c=0,8a # c=0,16a # c=1,5a
+\\\\ \ R\oo wno\ss \cc \ (2\sqrt{2} -a)^2 =17-12\sqrt{2}\\ \ jest\ prawdziwa\ dla # a=1 # a=-2 # a=-3 # a=3
+\\\\ \ Jedn\aa \ z\ liczb,\ kt\oo re\ spe\ll niaj\aa \\ \ nier\oo wno\ss \cc \ -x^5 + x^3 - x < -2,\ jest # 1 # -1 # -2 # 2
+\\\\ \ R\oo wnanie\ wymierne\ \frac{3x-1}{x+5}, \ gdzie\\ \ x \neq -5, # ma\ dok\ll adnie\ jedno\ rozwi\aa zanie\\ rzeczywiste # ma\ dok\ll adnie\ dwa\ rozwi\aa zania\\ rzeczywiste # ma\ dok\ll adnie\ trzy\ rozwi\aa zania\\ rzeczywiste # nie\ ma\ rozwi\aa za\nn \ rzeczywistych.
+\\\\ \ Czternasty\ wyraz\ ci\aa gu\ arytmetycznego\\ \ jest\ r\oo wny\ 8,\ a\ r\oo \zzz nica\ tego\ ci\aa gu\\ \ jest\ r\oo wna \left( -\frac{3}{2} \right).\ Si\oo dmy\ wyraz\ tego\\ \ ci\aa gu\ jest\ r\oo wny # -\frac{5}{2} # \frac{5}{2} # -\frac{37}{2} # \frac{37}{2}
+\\\\ \ Ci\aa g\ (x, 2x + 3, 4x + 3)\ jest\\ \ geometryczny.\ Pierwszy\ wyraz\ tego\\\ ci\aa gu\ jest\ r\oo wny # -4 # 1 # 0 # -1
+\\\\ \ Liczba\ 2\log_3 6 - \log_3 4\ jest\ r\oo wna # 2\log_32 # \log_3 8 # 4 # 2
+\\\\ \ Liczba \sqrt[3]{\frac{7}{3}}\cdot \sqrt[3]{\frac{81}{56}}\ jest\ r\oo wna # \frac{\sqrt{3}}{2} # \frac{3}{2\sqrt[3]{21}} # \frac{9}{4} # \frac{3}{2}
+\\\\ \ Dane\ s\aa  liczby\ a = 3, 6 \cdot 10^{-12}\ oraz\\ \ b = 2, 4\cdot 10^{-20} .\ Wtedy\ iloraz\ \frac{a}{b}\ jest\\\ r\oo wny # 8,64\cdot 10^{-32} # 1,5\cdot 10^{-8} # 8,64\cdot 10^{32} # 1,5\cdot 10^8
+\\\\ \ Cena\ roweru\ po\ obni\zzz ce\ o\ 15\% \ by\ll a\\\ r\oo wna\ 850\ z\ll .\ Przed\ obni\zzz k\aa \ ten\ rower\\\ kosztowa\ll # 865,00\ z\ll # 850,15\ z\ll # 977,50\ z\ll # 1000,00\ z\ll
+\\\\ \ Zbiorem\ wszystkich\ rozwi\aa za\nn \\\ nier\oo wno\ss ci\ \frac{1- 2x}{2} > \frac{1}{3}\ jest\ przedzia\ll # \left( -\infty ,\frac{2}{3} \right) # \left( \frac{1}{6} ,+\infty \right) # \left( \frac{2}{3},+\infty \right) # \left( -\infty ,\frac{1}{6} \right)
+\\\\ \ R\oo wnanie\ \frac{x^2 +2x}{x^2-4}=0 # ma\ trzy\ rozwi\aa zania:\\ x=-2,\ x=0,\ x=2 # ma\ dwa\ rozwi\aa zania:\\ x=-2,\ x=0 # ma\ dwa\ rozwi\aa zania:\\ x=-2,\ x=2 #  ma\ jedno\ rozwi\aa zanie:\\ x=0
+\\\\ \ Dany\ jest\ ci\aa g\ (a_n)\ okre\ss lony\ wzorem\\\ a_n =5-2n\ dla\ n\geq 1.\ Ci\aa g\ ten\ jest # arytmetyczny\ i\ jego\ r\oo \zzz nica\ jest\\ r\oo wna r=-2 # geometryczny\ i\ jego\ r\oo \zzz nica\ jest\\ r\oo wna r=-\frac{1}{3} # geometryczny\ i\ jego\ r\oo \zzz nica\ jest\\ r\oo wna r=-\frac{5}{6} # arytmetyczny\ i\ jego\ r\oo \zzz nica\ jest\\ r\oo wna r=-\frac{1}{3}
+\\\\ \ Dla\ ci\aa gu\ arytmetycznego\ (a_n),\\\ okre\ss lonego\ dla\ n\geq 1,\ jest\ spe\ll niony\\\ warunek\ a_4 +a_5 +a_6 =12.\ Wtedy # a_5=3 # a_5=6 # a_5=5 # a_5=4
+\\\\ \ Dany\ jest\ ci\aa g\ geometryczny\ (a_n ),\\\ okre\ss lony\ dla\ n \geq 1,\ w\ kt\oo rym\\\ a_1 = \sqrt{2} ,\ a_2 = 2 \sqrt{2} ,\ a_3 = 4 \sqrt{2} .\ Wz\oo r\ na\\\ n-ty\ wyraz\ tego\ ci\aa gu\ ma\ postacc # a_n=\left( \sqrt{2} \right) ^n # a_n=\left( \frac{\sqrt{2}}{2}\right) ^n # a_n=\frac{\left( \sqrt{2} \right) ^n }{2} # a_n=\frac{2^n}{\sqrt{2}}
+\\\\ \ Liczba\ 5^8\cdot 16^{-2}\ jest\ r\oo wna # 10 # 10^8 # \frac{5}{2} # \left( \frac{5}{2} \right) ^8
+\\\\ \ Liczba\ \sqrt[3]{54}- \sqrt[3]{2}\ jest\ r\oo wna # \sqrt[3]{52} # 3 # 2 # 2\sqrt[3]{2}
+\\\\ \ Liczba\ 2\log_2 3-2\log_2 5\ jest\ r\oo wna # \log_2\frac{3}{5} # \log_2\frac{9}{5} # \log_2\frac{6}{25} # \log_2\frac{9}{25}
+\\\\ \ Liczba\ osobnik\oo w\ pewnego\ zagro\zz onego\\\ wygini\ee ciem\ gatunku\ zwierz\aa t\ wzros\ll a\\\ w\ stosunku\ do\ liczby\ tych\ zwierz\aa t\ z\ 31\\\ grudnia\ 2011\ r.\ o\ 120\% \ i\ obecnie\ jest\\\ r\oo wna\ 8910.\ Ile\ zwierz\aa t\ liczy\ll a\\\ populacja\ tego\ gatunku\ w\ ostatnim\ dniu\\\ 2011\ roku? # 1782 # 7425 # 7128 # 4050
+\\\\ \ R\oo wno\ss \cc \ (x \sqrt{2}-2)^2=(2+ \sqrt{2})^2 \ jest # prawdziwa\ dla\ x=-\sqrt{2}. # prawdziwa\ dla\ x=\sqrt{2}. # fa\ll szywa\ dla\ ka\zzz dej\ liczby\ x. # prawdziwa\ dla\ x=-1.
+\\\\ \ Do\ zbioru\ rozwi\aa za\nn \ nier\oo wno\ss ci\\\ (x^4 +1)(2 - x) > 0\ nie\ nale\zzz y\ liczba # -3 # -1 # 1 # 3
+\\\\ \ R\oo wnanie\ x(x^2 -4)(x^2 +4)=0\ z\\\ niewiadom\aa \ x\ # ma\ dok\ll adnie\ pi\ee \cc \ rozwi\aa za\nn \ w\\ zbiorze\ liczb\ rzeczywistych. # ma\ dok\ll adnie\ dwa\ rozwi\aa zania\ w\\ zbiorze\ liczb\ rzeczywistych. # nie\ ma\ rozwi\aa za\nn \ w\ zbiorze\ liczb\\ rzeczywistych # ma\ dok\ll adnie\ trzy\ rozwi\aa zania\ w\\ zbiorze\ liczb\ rzeczywistych.
+\\\\ \ W\ ci\aa gu\ arytmetycznym\ (a_n),\\\ okre\ss lonym\ dla\ n\geq 1,\ dane\ s\aa :\ a_1 =5,\\\ a_2 =11.\ Wtedy # a_{14}=71 # a_{11}=71 # a_{10}=71 # a_{12}=71
+\\\\ \ Dany\ jest\ trzywyrazowy\ ci\aa g\\\ geometryczny\ (24, 6, a -1).\ St\aa d\ wynika,\\\ \zzz e # a=\frac{2}{5} # a=\frac{3}{2} # a=\frac{2}{3} # a=\frac{5}{2}
+\\\\ \ U\ll amek\ \frac{\sqrt{5}+2}{\sqrt{5}-2}\ jest\ r\oo wny # 1 # -1 # 7+4\sqrt{5} # 9+4\sqrt{5}
+\\\\ \ Liczbami\ spe\ll niaj\aa cymi\ r\oo wnanie\\\ \left| 2x+3\right| =5\ s\aa # 1\ i\ 2 # -1\ i\ 4 # -2\ i\ 2 # 1\ i\ -4
+\\\\ \ R\oo wnanie\ (x+5)(x-3)(x^2 +1)=0\ ma # cztery\ rozwi\aa zania:\ x=-5,\ x=-1,\\ x=1,\ x=5 # cztery\ rozwi\aa zania:\ x=-3,\ x=-1,\\ x=1,\ x=3 # dwa\ rozwi\aa zania\ x=-3,\ x=5 # dwa\ rozwi\aa zania\ x=-5,\ x=3
+\\\\ \ Mar\zzz a\ r\oo wna\ 1,5 \% \ kwoty\ po\zzz yczonego\\\ kapita\ll u\ by\ll a\ r\oo wna\ 3000\ z\ll .\ Wynika\\\ st\aa d,\ \zzz e\ po\zzz yczono # 45\ z\ll # 2000\ z\ll # 450\ 000\ z\ll # 200\ 000\ z\ll
+\\\\ \ Wyra\zzz enie\ \frac{3x+1}{x-2}-\frac{2x-1}{x+3}\ jest\ r\oo wne # \frac{x+2}{(x-2)(x+3)} # \frac{x}{(x-2)(x+3)} # \frac{x+2}{-5} # \frac{x^2+15x+1}{(x-2)(x+3)}
+\\\\ \ Ci\aa g\ (a_n)\ jest\ okre\ss lony\ wzorem\\\ a_n = \sqrt{2n+4}\ dla\ n\geq 1.\ W\oo wczas # a_8=8 # a_8=5\sqrt{2} # a_8=\sqrt{12} # a_8=2\sqrt{5}
+\\\\ \ Ci\aa g\ (2\sqrt{2},\ 4,\ a)\ jest\ geometryczny.\\\ W\oo wczas # a=8+2\sqrt{2} # a=8-2\sqrt{2} # a=8\sqrt{2} # a=4\sqrt{2}
+\\\\ \ R\oo wno\ss \cc \ \left( a+2\sqrt{2}\right)^2 =a^2 +28 \sqrt{2}+8\\\ zachodzi\ dla # a=14 # a=7\sqrt{2} # a=2\sqrt{2} # a=7

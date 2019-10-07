@@ -1,0 +1,52 @@
+\\\\\\ \ Rozwi\aa zaniami \ r\oo wnania \\ \ (x^3-8)(x-5)(2x+1) \ = \ 0 \ s\aa \ liczby # -8 \ ; \ -5 \ ; \ 1   # -1 \ ; \ 5 \ ; \ 8 # -\frac{1}{2} \ ; \ 5 \ ; \ 8 # -\frac{1}{2} \ ; \ 2 \ ; \ 5
+\\\\ \ Dane \ s\aa \ dwie \ funkcje \ okre\ss lone \ dla \\ \ wszystkich \ liczb \ rzeczywistych \ x \\ \ wzorami\ f(x)=-5x+1 \ oraz \ g(x)=5^x . \\ \ Liczba \ punkt\oo w \ wsp\oo lnych \ wykres\oo w \\ \ tych \ funkcji \ jest \ r\oo wna # 3 # 2 # 0 # 1
+\\\\ \ Funkcja \ \cal{f}, \ okre\ss lona \ dla \ wszystkich \\ \ liczb \ ca\ll kowitych \ dodatnich, \\ \ przyporz\aa dkowuje \ liczbie \ x \ ostatni\aa \\ \ cyfr\ee \ jej \ kwadratu. \ Zbi\oo r \ warto\ss ci \\ \ funkcji \ \cal{f} \ zawiera \ dok\ll adnie # 5 \ element\oo w # 9 \ element\oo w # 10 \ element\oo w # 6 \ element\oo w
+\\\\ \ Ekipa \ z\ll o\zzz ona \ z \ 25 \ pracownik\oo w \\ \ wymieni\ll a \ tory \ kolejowe \ na \ pewnym \\ \ odcinku \ w \ ci\aa gu \ 156 \ dni. \ Je\ss li \ wymian\ee \\ \ tor\oo w \ kolejowych \ na \ kolejnym \ odcinku \\ \ o \ tej \ samej \ d\ll ugo\ss ci \ trzeba \\ \ przeprowadzi\cc \ w \ ci\aa gu \ 100 \ dni, \ to, \ przy \\ \ za\ll o\zzz eniu \ takiej \ samej \ wydajno\ss ci, \\ \ nale\zzz y \ zatrudni\\cc \ do \ pracy \ o # 17 \ os\oo b \ wi\ee cej. # 25 \ os\oo b \ wi\ee cej. # 39 \ os\oo b \ wi\ee cej. # 14 \ os\oo b \ wi\ee cej.
+\\\\ \ Dane \ s\aa \ wielomiany: \\ \ W(x)=x^3-3x+1 \ oraz \ V(x)=2x^3. \\ \ Wielomian \ W(x) \cdot V(x) \ jest \ r\oo wny # 2x^5-6x^4+2x^3 # 2x^5+3x+1 # 2x^5+6x^4+2x^3 # 2x^6-6x^4+2x^3
+\\\\ \ Wierzcho\ll ek \ paraboli \ o \ r\oo wnaniu \\ \ y = −3 ( x + 1)^2 \ ma \ współrzędne # (0,1) # (1,0) # (0,-1) # (-1,0)
+\\\\ \ Do \ wykresu \ funkcji \ f(x)=x^2 +x - 2 \\ \ nale\zzz y \ punkt # (-1,-4) # (-1,1) # (-1,-1) # (-1,-2)
+\\\\ \ Rozwi\aa zaniem \ r\oo wnania \ \ \frac{x-5}{x+3} = \frac{2}{3}\\ \ jest \ liczba # \frac{17}{3} # 0 # 7 # 21
+\\\\ \ Wykres \ funkcji \ liniowej \ okre\ss lonej \\ \ wzorem \ f(x) = 3x + 2 \ jest \ prost\aa \\ \ prostopadł\aa \ do \ prostej \ o\ r\oo wnaniu: # y=\frac{1}{3}x+1 # y=3x+1 # y=3x-1 # y=-\frac{1}{3}x-1
+\\\\ \ Prosta \ o \ r\oo wnaniu \ y=-4x+(2m-7) \\ \ przechodzi \ przez \ punkt \ A=(2,-1). \\ \ Wtedy # =\frac{1}{2} # m= 2\frac{1}{2} # m=-17 # m=7
+\\\\ \ Punkt \ A=(0,1) \ le\zzz y \ na\ wykresie \ fun- \\ \ kcji \ liniowej \  f(x)=(m-2)x+m-3.\\ \ St\aa d\ wynika, \ \zzz e # m=1 # m=2 # m=3 # m=4
+\\\\ \ Wierzcho\ll kiem\ paraboli\ o\ r\oo wnaniu\\ \ y=-3(x - 2)^2 + 4 \ jest \ punkt\ o\\ \ wsp\oo \ll rz\ee dnych # (-2,-4) # (-2,4) # (2,-4) # (2,4)
+\\\\ \ Prosta \ o\ r\oo wnaniu\ y=\frac{2}{m}x+1 \ jest\\ \ prostopad\ll a\ do\ prostej\ o\ r\oo wnaniu\\ \ y=-\frac{3}{2}x-1. \ St\aa d # m=-3 # m=\frac{2}{3} # m=\frac{3}{2} # m=3
+\\\\ \ Liczba \ 2  \ jest\ pierwiastkiem\ wielomianu\\ \ W (x)= x^3 + ax^2 + 6x-4.\ Wsp\oo \ll czynnik\\ \ a\ jest\ r\oo wny # 2 # -2 # 4 # -4
+\\\\ \ Wska\zzz \ m,\ dla\ kt\oo rego\ funkcja\\ \ liniowa\ okre\ss lona\ wzorem\\ \ f(x)= (m- 1)x+ 3\ jest\ sta\ll a. # m=-1 # m=3 # m=2 # m=1
+\\\\ \ Proste\ o\ r\oo wnaniach\ y = 2x+3\ oraz\\ \ y=-\frac{1}{3}x+2 # s\aa \ r\oo wnloeg\ll e\ i\ r\oo \zz ne # s\aa \ prostopad\ll e  # pokrywaj\aa \ si\ee # przecinaj\aa \ si\ee \ pod\ k\aa tem\ innym\ ni\zzz \\ prosty
+\\\\ \ Wska\zzz \ r\oo wnanie\  prostej,\ kt\oo ra\ jest\ osi\aa \\ \ symetrii\ paraboli\ o\ r\oo wnaniu\\ \ y = x^2 - 4x + 2010 . # x=4 # x=-4 # x=-2 # x=2
+\\\\ \ Funkcja\ f\ przyporz\aa dkowuje\ ka\zzz dej\\ \ liczbie\ naturalnej\ większej\ od\ 1\ jej\\ \ najwi\ee kszy\ dzielnik\ b\ee d\aa cy\ liczb\aa \\ \ pierwsz\aa .\ Spo\ss r\oo d\ liczb:\ f (42),\ f (44),\\ \ f (45),\ f (48)\ najwi\ee ksza\ to # f(42) # f(45) # f(48) # f(44)
+\\\\ \ Wykresem\ funkcji\ kwadratowej\ f\ jest\\ \ parabola \ o\ wierzcho\ll ku\ W =(5,7) .\\ \ W\oo wczas\ prawdziwa\ jest\ r\oo wno\ss \cc # f(1)=f(11) # f(1)=f(13) # f(1)=f(15) # f(1)=f(9)
+\\\\ \ Funkcja\ liniowa\ f (x) = (m^2 - 4) x + 2\\ \ jest\ malej\aa ca,\ gdy # m\ \in \ \left{ -2,2\right} # m\ \in \ (-\infty ,2) # m\ \in \ (2,+\infty ) # m\ \in \ (-2,2)
+\\\\ \ O\ funkcji\ liniowej\ f\ wiadomo,\ \zzz e\\ \ f (1)= 2 .\ Do\ wykresu\ tej\ funkcji\ nale\zz y\\ \ punkt\ P = (-2, 3) .\ Wz\oo r\ funkcji\ f\ to # f(x)=-\frac{1}{2}x+2 # f(x)=-3x+7 # f(x)=-2x+4 # f(x)=-\frac{1}{3}x+\frac{7}{3}
+\\\\ \ Do\ wykresu\ funkcji,\ okre\ss lonej\ dla\\ \ wszystkich\ liczb\ rzeczywistych\ wzorem\\ \ y = -2^{x=2} ,\ nale\zzz y\ punkt # D=(4,4) # C=\left( 1, \frac{1}{2} \right) # A=(1,-2) # B=(2,-1)
+\\\\ \ Funkcja\ liniowa\ okre\ss lona\ jest\ wzorem\\ \ f (x) = - 2x + 4 .\ Miejscem\ zerowym\\ \ tej\ funkcji\ jest\ liczba # -2\sqrt{2} # -\frac{\sqrt{2}}{2} # \frac{\sqrt{2}}{2} # 2\sqrt{2}
+\\\\ \ Prosta\ k\ ma\ r\oo wnanie\ y = 2x - 3 .\\ \ Wska\zzz \ r\oo wnanie\ prostej\ l\ r\oo wnoleg\ll ej\\ \ do\ protej\ k\ i\ przechodz\aa cej\ przez\ punkt\\ \ D\ o\ wsp\oo \ll rz\ee dnych\ (-2, 1) . # y=-x+1 # y=-2x+3 # y=2x+1 # y=2x+5
+\\\\ \ Liczba\ (-2)\ jest\ miejscem\ zerowym\\ \ funkcji\ liniowej\ f(x)=mx+2.\ Wtedy # m=3 # m=-2 # m=-4 # m=1
+\\\\ \ Dana\ jest\ parabola\ o\ r\oo wnaniu\\ \ y = x^2 + 8x -14 .\  Pierwsza\ wsp\oo \ll rz\ee dna\\ \ wierzcho\ll ka\  tej\ paraboli\ jest\ r\oo wna # x=-8 # x=4 # x=8 # x=-4
+\\\\ \ Wielomian W (x)= x^6 + x^3 - 2\ jest\\ \ r\oo wny\ iloczynowi # (x^3+1)(x^2-2) # (x^2+2)(x^4-1) # (x^4-2)(x+1) # (x^3-1)(x^3+2)
+\\\\ \ K\aa t\ \alpha \ jest\ ostry\ i\ \sin \alpha = \frac{7}{13} .\ Wtedy\\ \ \tan \alpha \ jest\ r\oo wny # \frac{7}{6} # \frac{7\cdot 13}{120} # \frac{7}{13\sqrt{120}} # \frac{7}{\sqrt{120}}
+\\\\ \ Wska\zzz \ r\oo wnanie\ prostej\ przechodz\aa cej\\ \ przez\ pocz\aa tek\ uk\ll adu\ wsp\oo \ll rz\ee dnych\\ \ i\ prostopad\ll ej\ do\ prostej\ o\ r\oo wnaniu\\ \ y=-\frac{1}{3}x+2. # y=-3x # y=3x+2 # y=\frac{1}{3}x+2 # y=3x
+\\\\ \ Dane\ s\aa \ wielomiany\ W (x)= -2x^3 +5x^2\\ \ -3 \ oraz\ P(x)= 2x^3 +12x.\ Wielomian\\ \ W (x)+ P(x)\ jest\ r\oo wny # 4x^3+5x^2+12x-3 # 4x^6+5x^2+12x-3 # 4x^4+12x^2-3 # 5x^2+12x-3
+\\\\ \ Wykresem\ funkcji\ kwadratowej\\ \ f (x) = -3x^2 + 3\ jest\ parabola\ o\\ \ wierzcho\ll ku\ w\ punkcie # (3,0) # (-3,0) # (0,-3) # (0,3)
+\\\\ \ Prosta\ o\ r\oo wnaniu\ y = -2x + (3m + 3)\\ \ przecina\ w\ uk\ll adzie\ wsp\oo \ll rz\ee dnych\ o\ss \\ \ Oy\ w\ punkcie\ (0,2).\ Wtedy # m=-\frac{5}{3} # m=\frac{1}{3} # m=-\frac{2}{3} # m=-\frac{1}{3}
+\\\\ \ Wsp\oo \ll czynnik\ kierunkowy\ prostej\\ \ r\oo wnoleg\ll ej\ do\ prostej\ o\ r\oo wnaniu\\ \ y = -3x + 5\ jest\ r\oo wny: # -\frac{1}{3} # \frac{1}{3} # 3 # -3
+\\\\ \ Miejscami\ zerowymi\ funkcji\\ \ kwadratowej\ y = -3(x - 7)(x + 2)\ s\aa # x=-7,\ x=-2 # x=7,\ x=2 # x=-7,\ x=2 # x=7,\ x=-2
+\\\\ \ Funkcja\ liniowa\ f\ jest\ okre\ss lona\\ \ wzorem\ f(x)=ax+6,\ gdzie\ a>0.\\ \ W\oo wczas\ spe\ll niony\ jest\ warunek # f(2)=2 # f(3)<3 # f(4)=4 # f(1)>1
+\\\\ \ Funkcja\ W\ jest\ okre\ss lona\ wzorem\\ \ W (x) = 3x^4 - bx - 2a\ dla\ wszystkich\\ \ liczb\ rzeczywistych.\ R\oo wno\ss \cc \\ \ W(-1)+W(1)=0\ zachodzi,\ gdy # a=1 # a=-1 # a=\frac{2}{3} # a=\frac{3}{2}
+\\\\ \ Zbiorem\ warto\ss ci\ funkcji\ kwadratowej\\ \ f (x)=-\frac{1}{3}x^2 -2x+c\ jest\ przedzia\ll \\ \ \left( -\infty ,7 \right> .\ Zatem\ 3\ wsp\oo \ll czynnik\ c\ jest\\ \ r\oo wny # 7 # 10 # -3 # 4
+\\\\ \ Na\ wykresie\ funkcji\ liniowej\ okre\ss lonej\\ \ wzorem\ f(x)=(m-1)x+3\ le\zzz y\ punkt\\ \ S=(5,-2).\ Zatem # m=2 # m=1 # m=-1 # m=0
+\\\\ \ Funkcja\ liniowa\ f\ okre\ss lona\ wzorem\\ \ f (x) = 2x + b\ ma\ takie\ samo\ miejsce\\ \ zerowe,\ jakie\ ma\ funkcja\ liniowa\\ \ g(x)=-3x+4.\ St\aa d\ wynika,\ \zzz e # b=4 # b=\frac{4}{3} # b=-\frac{3}{2} # b=-\frac{8}{3}
+\\\\ \ Funkcja\ kwadratowa\ okre\ss lona\ jest\\ \ wzorem\ f(x)=x^2 +x+c.\ Je\zzz eli\\ \ f(3)=4,\ to # f(1)=6 # f(1)=18 # f(1)=0 # f(1)=-6
+\\\\ \ Dziedzin\aa \ funkcji\ f\ okre\ss lonej\ wzorem\\ \ f (x)= \frac{x + 4}{x^2-4x}\ mo\zzz e\ by\cc \ zbi\oo r # wszystkich\ liczb\ rzeczywistych. # wszystkich\ liczb\ rzeczywistych\ r\oo \zzz nych\\ od\ 0\ i\ od\ 0. # wszystkich\ liczb\ rzeczywistych\ r\oo \zzz nych\\ od\ -4\ i\ od\ 4. # wszystkich\ liczb\ rzeczywistych\ r\oo \zzz nych\\ od\ 0\ i\ od\ 4.
+\\\\ \ Miejscem\ zerowym\ funkcji\ liniowej\\ \ okre\ss lonej\ wzorem\ f(x)=-\frac{2}{3}x+4\ jest # 4 # -6 # 0 # 6
+\\\\ \ Punkt\ M = \left( \frac{1}{2} , 3\right) \ nale\zzz y\ do\ wykresu\\ \ funkcji\ liniowej\ okre\ss lonej\ wzorem\\ \ f(x)=(3x-2a)x+2.\ Wtedy # a=-\frac{1}{2} # a=2 #a=-2  # a=\frac{1}{2}
+\\\\ \ Dana\ jest\ funkcja\ liniowa\\ \ f(x)=\frac{3}{4}x+6.\ Miejscem\ zerowym\ tej\\ \ funkcji\ jest\ liczba # 8 # 6 # -6 # -8
+\\\\ \ Funkcja\ f\ okre\ss lona\ jest\ wzorem\\ \ f (x) = \frac{2x^3}{x^6 +1}\ dla\ ka\zzz dej\ liczby\\ \ rzeczywistej\ x.\ Wtedy\ f (- \sqrt[3]{3})\ jest\\ \ r\oo wna # -\frac{\sqrt[3]{9}}{2} # \frac{\sqrt[3]{3}}{2} # \frac{3}{5} # -\frac{3}{5}
+\\\\ \ Funkcja\ kwadratowa\ jest\ okre\ss lona\\\ wzorem\ f (x)=-2(x+3)(x-5).\ Liczby\\\ x_1 ,\ x_2 \ s\aa \ r\oo \zzz nymi\ miejscami \ zerowymi\\\ funkcji\ f.\ Zatem # x_1+x_2=8 # x_1+x_2=-8 # x_1+x_2=-2 # x_1+x_2=2
+\\\\ \ Funkcja\ liniowa\ f\ okre\ss lona\ jest\\ \ wzorem\ f (x) = \frac{1}{3} x -1,\ dla\ wszystkich\\\ liczb\ rzeczywistych\ x.\ Wska\zz \ zdanie\\\ prawdziwe. # Funkcja\ f\ jest\ malej\aa ca\ i\ jej\ wykres\\ przecina\ o\ss \ Oy\ \ w\ punkcie\ P=\left( 0,\frac{1}{3} \right) # Funkcja\ f\ jest\ malej\aa ca\ i\ jej\ wykres\\ przecina\ o\ss \ Oy\ \ w\ punkcie\ P=\left( 0,-1 \right) # Funkcja\ f\ jest\ rosn\aa ca\ i\ jej\ wykres\\ przecina\ o\ss \ Oy\ \ w\ punkcie\ P=\left( 0,\frac{1}{3} \right) # Funkcja\ f\ jest\ rosn\aa ca\ i\ jej\ wykres\\ przecina\ o\ss \ Oy\ \ w\ punkcie\ P=\left( 0,-1 \right)
+\\\\ \ Wykresem\ funkcji\ kwadratowej\\\ f (x) = x^2 - 6x - 3\ jest\ parabola,\ kt\oo rej\\\ wierzcho\ll kiem\ jest\ punkt\ o\\\ wsp\oo \ll rz\ee dnych # (6,-3)) # (-6,-3) # (-6,69) # (3,-12)
+\\\\ \ Liczba\ 1\ jest\ miejscem\ zerowym\\\ funkcji\ liniowej\ f (x) = ax + b ,\\\ a\ punkt\ M = (3, - 2)\ nale\zzz y\ do\ wykresu\\\ tej\ funkcji.\ Wsp\oo \ll czynnik\ a\ we\ wzorze\\\ tej\ funkcji\ jest\ r\oo wny # 1 # \frac{3}{2} # -\frac{3}{2} # -1
+\\\\ \ Miejscem\ zerowym\ funkcji\ liniowej\\\ f ( x ) = \sqrt{3} ( x + 1) - 12\ jest\ liczba # -\sqrt{3}+12 # \sqrt{3}-4 # -2\sqrt{3}+1 # 4\sqrt{3}-1
+\\\\ \ Wierzcho\ll kiem\ paraboli\ b\ee d\aa cej\\\ wykresem\ funkcji\ okre\ss lonej\ wzorem\\\ f(x)= x^2 - 4x + 4\ jest\ punkt\ o\\\ wsp\oo \ll rz\ee dnych # (0,2) # (0,-2) # (-2,0) # (2,0)
+\\\\ \ Wiadomo,\ \zzz e\ dziedzin\aa \ funkcji\ f\\\ okre\ss lonej\ wzorem\ f(x)=\frac{x-7}{2x+a}\ jest\\\ zbi\oo r\ (-\infty ,2)\cup (2,+\infty ).\ W\oo wczas # a=2 # a=-2 # a=4 # a=-4

@@ -1,0 +1,23 @@
+\\\\ \ Na \ p\ll aszczy\zz nie \ dane \ s\aa \ punkty: \\ \ A = (\sqrt{2}, \sqrt{6} ), B =(0, 0) \ i \ C = ( \sqrt{2}, 0). \\ \ K\aa t \ BAC \ jest \ r\oo wny # 75^o # 45^o # 60^0 # 30^o
+\\\\ \ Liczba \ \sin{150^o} \ jest \ r\oo wna \ liczbie # \tan{60^o} # \cos{120^o} # \tan{120^o} # \cos{60^o}
+\\\\ \ Dany \ jest \ tr\oo jk\aa t \ r\oo wnoramienny, \\ \ w \ kt\oo rym \ rami\ee \ o \ d\ll ugo\ss ci \ 20 \ tworzy \ z \\ \ podstaw\aa \ k\aa t \ 67,5^o. \ Pole \ tego \ tr\oo jk\aa ta \\ \ jest \ r\oo wne # 200\sqrt{2} # 200\sqrt{3} # 100\sqrt{3} # 100\sqrt{2}
+\\\\ \ K\aa t \ \alpha \ jest \ ostry \ i \ \sin \alpha = \frac{8}{9} . \ Wtedy \\ \ \cos \alpha \ jest \ r\oo wny # \frac{1}{9} # \frac{8}{9} # \frac{\sqrt{65}}{9} # \frac{\sqrt{17}}{9}
+\\\\ \ K\aa t\ \alpha \ jest\ ostry\ i\ \sin \alpha =  \frac{\sqrt{3}}{2}. \ Warto\ss \cc \\ \ wyra\zzz enia\ \cos^2 \alpha - 2 \ jest \ r\oo wna # -\frac{1}{4} # \frac{1}{2} # \frac{\sqrt{3}}{2} # -\frac{7}{4}
+\\\\ \ Pionowy\ s\ll upek\ o\ wysoko\ss ci\ 90 cm\ rzuca\\ \ cie\nn \ o\ d\ll ugo\ss ci\ 60 cm.\ W\ tej\ samej\ chwili\\ \ stoj\aa ca\ obok\ wie\zzz a\ rzuca\ cie\nn \ d\ll ugo\ss ci\\ \ 12 m.\ Jaka\ jest\ wysoko\ss \cc \ wie\zzz y\ ? # 8\ m # 9\ m # 16\ m # 18\ m
+\\\\ \ K\aa t\ \alpha \ jest\ ostry\ i\ \cos \alpha = \frac{3}{7} . \ Wtedy # \sin \alpha = \frac{\sqrt{10}}{7} # \sin \alpha = \frac{4}{7} # \sin \alpha = \frac{3}{4} # \sin \alpha = \frac{2\sqrt{10}}{7}
+\\\\ \ Je\zzz eli\ k\aa t\ \alpha \ jest\ ostry\ i \ \tan \alpha = \frac{3}{4},\ to\\ \ \frac{2-\cos \alpha}{2+\cos \alpha}\ r\oo wna\ si\ee # -1 # -\frac{1}{3} # \frac{84}{25} # \frac{3}{7}
+\\\\ \ Je\zzz eli\ \alpha \ jest\ k\aa tem\ ostrym\ oraz\\ \ \tan \alpha = \frac{2}{5} ,\ to\ warto\ss \cc \ wyra\zz enia\\ \ \frac{3 \cos \alpha - 2 \sin \alpha}{\sin \alpha - 5\cos \alpha }\ jest\ r\oo wna # \frac{24}{5} # -\frac{23}{11} # \frac{5}{24} # -\frac{11}{23}
+\\\\ \ Wysoko\ss \cc \ trapezu\ r\oo wnoramiennego\ o\\ \ k\aa cie\ ostrym\ 60^o\ i\ ramieniu\ d\ll ugo\ss ci\\ \ 2\sqrt{3}\ jest\ r\oo wna # \sqrt{3} # 2\sqrt{3} # 2 # 3
+\\\\ \ K\aa t\ \alpha \ jest\ ostry\ i\ \cos \alpha = \frac{5}{13} .\ Wtedy # \sin a=\frac{12}{13}\ oraz\ \tan \alpha = \frac{5}{12} # \sin a=\frac{12}{5}\ oraz\ \tan \alpha = \frac{12}{13} # \sin a=\frac{5}{12}\ oraz\ \tan \alpha = \frac{12}{13} # \sin a=\frac{12}{13}\ oraz\ \tan \alpha = \frac{12}{5}
+\\\\ \ Warto\ss \cc \ wyra\zzz enia\\ \ \frac{\sin ^238^o+\cos ^238^o-1}{\sin ^252^o+\cos ^252^o+1}\  jest\ r\oo wna # \frac{1}{2} # 1 # -\frac{1}{2} # 0
+\\\\ \ K\aa t\ \alpha \ jest\ ostry\ i\ \sin \alpha =3.\ Warto\ss \cc \\ \ wyra\zzz enia\ 2-\cos2 \alpha \ jest\ r\oo wna # \frac{3}2 # \frac{17}{16} # \frac{31}{16} # \frac{25}{16}
+\\\\ \ Liczba\ \tan 30^o - \sin30^o\ jest\ r\oo wna # \sqrt{3}-1 # -\frac{\sqrt{3}}{6} # \frac{\sqrt{3}-1}{6} # \frac{2\sqrt{3}-3}{6}
+\\\\ \ W\ tr\oo jk\aa cie\ prostok\aa tnym\ ABC\ odcinek\\ \ AB\ jest\ przeciwprostok\aa tn\aa \ i\ \left| AB \right| =13\\ \  oraz\ \left| BC \right| = 12 .\ W\oo wczas\ sinus\ k\aa ta\\ \ ABC\ jest\ r\oo wny # \frac{12}{13} # \frac{5}{12} # \frac{13}{12} # \frac{5}{13}
+\\\\ \ W\ tr\oo jk\aa cie\ r\oo wnoramiennym\ ABC\\ \ dane\ s\aa \ \left| AC \right| =\left| BC \right| = 5\  oraz\ wysoko\ss \cc \\ \ \left| CD \right| = 2 .\ Podstawa\ AB\ tego\ tr\oo jk\aa ta\\ \ ma\ d\ll ugo\ss \cc # 6 # 14 # 2\sqrt{29} # 2\sqrt{21}
+\\\\ \ Dany\ jest\ tr\oo jk\aa t\ prostok\aa tny\ o\ k\aa tach\\ \ ostrych\ \alpha \ i\ \beta ,\ w\ kt\oo rym\ \sin \alpha = \frac{\sqrt{6}}{3} .\\ \ Wtedy # \tan \beta =\frac{\sqrt{6}}{2} # \tan \alpha =\frac{\sqrt{3}}{3} # \cos \alpha =\frac{\sqrt{3}}{2} # \cos \beta =\frac{\sqrt{6}}{3}
+\\\\ \ Je\zzz eli\ 0^o < \alpha < 90^o \ oraz\ \tan \alpha = 2 \sin \alpha ,\\ \ to # \cos \alpha =\frac{\sqrt{2}}{2} # \cos \alpha =\frac{\sqrt{3}}{2} # \cos \alpha =1 # \cos \alpha =\frac{1}{2}
+\\\\ \ K\aa t\ \alpha \ jest\ ostry\ i\ \sin \alpha = \frac{2}{5} .\ W\oo wczas\\ \ \cos \alpha \ jest\ r\oo wny # \frac{5}{2} # \frac{\sqrt{21}}{4} # \frac{3}{5} # \frac{\sqrt{21}}{5}
+\\\\ \ K\aa t\ \alpha \ jest\ ostry\ i\ \tan \alpha = \frac{2}{3}.\ Wtedy # \sin \alpha = \frac{3\sqrt{13}}{26} # \sin \alpha = \frac{\sqrt{13}}{13} # \sin \alpha = \frac{3\sqrt{13}}{13} # \sin \alpha = \frac{2\sqrt{13}}{13}
+\\\\ \ Je\ss li\ m=\sin 50^o,\ to # m=\tan 50^o # m=\cos 50^o # m=\sin 40^o # m=\cos 40^o
+\\\\ \ Kr\oo tszy\ bok\ prostok\aa ta\ ma\ d\ll ugo\ss \cc \ 6.\\\ K\aa t\ mi\ee dzy\ przek\aa tn\aa \ prostok\aa ta\ i\\\ d\ll u\zzz szym\ bokiem\ ma\ miar\ee \ 30^o .\\\ D\ll u\zzz szy\ bok\ prostok\aa ta\ ma\ d\ll ugo\ss \cc # 12 # 2\sqrt{3} # 4\sqrt{3} # 6\sqrt{3}
+\\\\ \ K\aa t\ \alpha \ jest\ ostry\ i\ \tan \alpha =1.\ W\oo wczas # a<30^o # a=30^o # a>45^o # a=45^o
